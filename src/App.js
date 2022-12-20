@@ -3,24 +3,24 @@ import React, { useState } from "react";
 
 var genres = {
   Action: [
-    { name: "Infernal Affairs", lang: "Cantonese", rating: "3.9" },
-    { name: "Vikram", lang: "Tamil", rating: "3.9" },
-    { name: "Snowpiercer", lang: "English, Korean", rating: "3.7" }
+    { name: "Don", lang: "Hindi", rating: "7.9" },
+    { name: "The Dark Knight", lang: "English", rating: "8.9" },
+    { name: "Avengers", lang: "English", rating: "8.7" }
   ],
   Comedy: [
-    { name: "Piku", lang: "Hindi", rating: "3.7" },
-    { name: "Paddington", lang: "English", rating: "4.2" },
-    { name: "Jan-e-Man", lang: "Malayalam", rating: "3.5" }
+    { name: "Hera Pheri", lang: "Hindi", rating: "6.7" },
+    { name: "The man from toronto", lang: "English", rating: "8.2" },
+    { name: "The takedown", lang: "English", rating: "7.5" }
   ],
   Romance: [
     { name: "Rosaline", lang: "English", rating: "3.3" },
-    { name: "Anand", lang: "Telugu", rating: "4.0" },
-    { name: "The Handmaiden", lang: "Korean", rating: "4.4" }
+    { name: "Love aaj kal", lang: "Hindi", rating: "4.0" },
+    { name: "Focus", lang: "English", rating: "7.4" }
   ],
   Horror: [
-    { name: "Bhoothakalam", lang: "Malayalam", rating: "3.5" },
+    { name: "Bhootnath", lang: "Hindi", rating: "6.5" },
     { name: "Barbarian", lang: "English", rating: "3.7" },
-    { name: "I Saw The Devil", lang: "Korean", rating: "4.0" }
+    { name: "Pari", lang: "Hindi", rating: "46.0" }
   ]
 };
 
